@@ -9,7 +9,7 @@ fn main() {
         println!("YOu are not eligible to drive a car!");
     }
 
-    //Using if ina let statement
+    //Using if in a let statement
     let condition:bool=false;
     let number=if condition {5} else {6};
     println!("Number is: {}",number);
